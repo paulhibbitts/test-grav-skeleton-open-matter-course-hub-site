@@ -17,7 +17,7 @@ header\_image\_alt\_text: 'Information architecture'
 [User Experience Design Processes](https://www.google.ca/slides/about/)  
 [Our Design Process (aka Toolkit)](https://www.google.ca/slides/about/)
 
-===
+\===
 
 ## **What does a holistic user experience design process look like?**
 
@@ -29,7 +29,7 @@ header\_image\_alt\_text: 'Information architecture'
 
 [Placeholder Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/pub?start=false&loop=false&delayms=3000)
 
-[googleslides]https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/embed?start=false&loop=false&delayms=3000[/googleslides]
+\[googleslides\]https://docs.google.com/presentation/d/e/2PACX-1vSPiOUzmRG4EB6ng8KQgOwZEbVuN2u1d5tGVTiAyzlVuO_o4Zjyli3oAf_U_CqXml_6GMUBR9nUyEYb/embed?start=false&loop=false&delayms=3000[/googleslides]
 
 ### CPT-363 UX Design Process/Toolkit
 
@@ -45,4 +45,4 @@ header\_image\_alt\_text: 'Information architecture'
 
 ### Recommended Reading
 
-[embedly]https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b[/embedly]
+\[embedly\]https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b[/embedly]

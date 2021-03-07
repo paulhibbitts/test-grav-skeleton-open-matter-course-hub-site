@@ -1,14 +1,12 @@
 ---
-
-title: 'Week 2 (May 16 - 22)'  
-published: true  
-date: '16-05-2018 00:00'  
-hide\_from\_post\_list: false  
-hide\_git\_sync\_repo\_link: true  
-header\_image\_credit: 'CannedTuna, Flickr.com'  
-header\_image\_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'  
-header\_image\_alt\_text: 'Information architecture'
-
+title: 'Week 2 (May 16 - 22)'
+published: true
+date: '16-05-2018 00:00'
+hide_from_post_list: false
+hide_git_sync_repo_link: true
+header_image_credit: 'CannedTuna, Flickr.com'
+header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'
+header_image_alt_text: 'Information architecture'
 ---
 
 ## What does a holistic user experience design process look like?

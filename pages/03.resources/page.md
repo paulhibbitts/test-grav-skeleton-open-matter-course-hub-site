@@ -1,6 +1,6 @@
 ---
 
-title: Resources  
+title: Resources2  
 published: true
 
 ---
